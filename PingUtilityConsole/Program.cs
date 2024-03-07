@@ -21,8 +21,6 @@ while (true)
 
 }
 
-
-
 // список команд
 void PrintComand()
 {
