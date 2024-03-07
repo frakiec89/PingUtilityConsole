@@ -5,7 +5,6 @@ using System.Text;
 
 internal class NetWorkService
 {
-
     internal static void Ping(string adress)
     {
         Ping pingSender = new Ping();
